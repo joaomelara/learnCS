@@ -1,0 +1,14 @@
+C:\Users\joaop\OneDrive\Área de Trabalho\projetos\ExercisesListNelio1\ExercisesListNelio1\obj\Debug\net8.0\ExercisesListNelio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaop\OneDrive\Área de Trabalho\projetos\ExercisesListNelio1\ExercisesListNelio1\obj\Debug\net8.0\ExercisesListNelio1.AssemblyInfoInputs.cache
+C:\Users\joaop\OneDrive\Área de Trabalho\projetos\ExercisesListNelio1\ExercisesListNelio1\obj\Debug\net8.0\ExercisesListNelio1.AssemblyInfo.cs
+C:\Users\joaop\OneDrive\Área de Trabalho\projetos\ExercisesListNelio1\ExercisesListNelio1\obj\Debug\net8.0\ExercisesListNelio1.csproj.CoreCompileInputs.cache
+C:\Users\joaop\OneDrive\Área de Trabalho\projetos\ExercisesListNelio1\ExercisesListNelio1\bin\Debug\net8.0\ExercisesListNelio1.exe
+C:\Users\joaop\OneDrive\Área de Trabalho\projetos\ExercisesListNelio1\ExercisesListNelio1\bin\Debug\net8.0\ExercisesListNelio1.deps.json
+C:\Users\joaop\OneDrive\Área de Trabalho\projetos\ExercisesListNelio1\ExercisesListNelio1\bin\Debug\net8.0\ExercisesListNelio1.runtimeconfig.json
+C:\Users\joaop\OneDrive\Área de Trabalho\projetos\ExercisesListNelio1\ExercisesListNelio1\bin\Debug\net8.0\ExercisesListNelio1.dll
+C:\Users\joaop\OneDrive\Área de Trabalho\projetos\ExercisesListNelio1\ExercisesListNelio1\bin\Debug\net8.0\ExercisesListNelio1.pdb
+C:\Users\joaop\OneDrive\Área de Trabalho\projetos\ExercisesListNelio1\ExercisesListNelio1\obj\Debug\net8.0\ExercisesListNelio1.dll
+C:\Users\joaop\OneDrive\Área de Trabalho\projetos\ExercisesListNelio1\ExercisesListNelio1\obj\Debug\net8.0\refint\ExercisesListNelio1.dll
+C:\Users\joaop\OneDrive\Área de Trabalho\projetos\ExercisesListNelio1\ExercisesListNelio1\obj\Debug\net8.0\ExercisesListNelio1.pdb
+C:\Users\joaop\OneDrive\Área de Trabalho\projetos\ExercisesListNelio1\ExercisesListNelio1\obj\Debug\net8.0\ExercisesListNelio1.genruntimeconfig.cache
+C:\Users\joaop\OneDrive\Área de Trabalho\projetos\ExercisesListNelio1\ExercisesListNelio1\obj\Debug\net8.0\ref\ExercisesListNelio1.dll

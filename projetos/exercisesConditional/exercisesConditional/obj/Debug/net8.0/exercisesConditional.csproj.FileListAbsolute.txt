@@ -1,0 +1,14 @@
+C:\Users\joaop\OneDrive\Área de Trabalho\projetos\exercisesConditional\exercisesConditional\bin\Debug\net8.0\exercisesConditional.exe
+C:\Users\joaop\OneDrive\Área de Trabalho\projetos\exercisesConditional\exercisesConditional\bin\Debug\net8.0\exercisesConditional.deps.json
+C:\Users\joaop\OneDrive\Área de Trabalho\projetos\exercisesConditional\exercisesConditional\bin\Debug\net8.0\exercisesConditional.runtimeconfig.json
+C:\Users\joaop\OneDrive\Área de Trabalho\projetos\exercisesConditional\exercisesConditional\bin\Debug\net8.0\exercisesConditional.dll
+C:\Users\joaop\OneDrive\Área de Trabalho\projetos\exercisesConditional\exercisesConditional\bin\Debug\net8.0\exercisesConditional.pdb
+C:\Users\joaop\OneDrive\Área de Trabalho\projetos\exercisesConditional\exercisesConditional\obj\Debug\net8.0\exercisesConditional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaop\OneDrive\Área de Trabalho\projetos\exercisesConditional\exercisesConditional\obj\Debug\net8.0\exercisesConditional.AssemblyInfoInputs.cache
+C:\Users\joaop\OneDrive\Área de Trabalho\projetos\exercisesConditional\exercisesConditional\obj\Debug\net8.0\exercisesConditional.AssemblyInfo.cs
+C:\Users\joaop\OneDrive\Área de Trabalho\projetos\exercisesConditional\exercisesConditional\obj\Debug\net8.0\exercisesConditional.csproj.CoreCompileInputs.cache
+C:\Users\joaop\OneDrive\Área de Trabalho\projetos\exercisesConditional\exercisesConditional\obj\Debug\net8.0\exercisesConditional.dll
+C:\Users\joaop\OneDrive\Área de Trabalho\projetos\exercisesConditional\exercisesConditional\obj\Debug\net8.0\refint\exercisesConditional.dll
+C:\Users\joaop\OneDrive\Área de Trabalho\projetos\exercisesConditional\exercisesConditional\obj\Debug\net8.0\exercisesConditional.pdb
+C:\Users\joaop\OneDrive\Área de Trabalho\projetos\exercisesConditional\exercisesConditional\obj\Debug\net8.0\exercisesConditional.genruntimeconfig.cache
+C:\Users\joaop\OneDrive\Área de Trabalho\projetos\exercisesConditional\exercisesConditional\obj\Debug\net8.0\ref\exercisesConditional.dll

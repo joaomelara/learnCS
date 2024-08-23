@@ -1,0 +1,14 @@
+C:\Users\joaop\OneDrive\Área de Trabalho\projetos\ExercisesC#\ExercisesC#\bin\Debug\net8.0\ExercisesC#.exe
+C:\Users\joaop\OneDrive\Área de Trabalho\projetos\ExercisesC#\ExercisesC#\bin\Debug\net8.0\ExercisesC#.deps.json
+C:\Users\joaop\OneDrive\Área de Trabalho\projetos\ExercisesC#\ExercisesC#\bin\Debug\net8.0\ExercisesC#.runtimeconfig.json
+C:\Users\joaop\OneDrive\Área de Trabalho\projetos\ExercisesC#\ExercisesC#\bin\Debug\net8.0\ExercisesC#.dll
+C:\Users\joaop\OneDrive\Área de Trabalho\projetos\ExercisesC#\ExercisesC#\bin\Debug\net8.0\ExercisesC#.pdb
+C:\Users\joaop\OneDrive\Área de Trabalho\projetos\ExercisesC#\ExercisesC#\obj\Debug\net8.0\ExercisesC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaop\OneDrive\Área de Trabalho\projetos\ExercisesC#\ExercisesC#\obj\Debug\net8.0\ExercisesC#.AssemblyInfoInputs.cache
+C:\Users\joaop\OneDrive\Área de Trabalho\projetos\ExercisesC#\ExercisesC#\obj\Debug\net8.0\ExercisesC#.AssemblyInfo.cs
+C:\Users\joaop\OneDrive\Área de Trabalho\projetos\ExercisesC#\ExercisesC#\obj\Debug\net8.0\ExercisesC#.csproj.CoreCompileInputs.cache
+C:\Users\joaop\OneDrive\Área de Trabalho\projetos\ExercisesC#\ExercisesC#\obj\Debug\net8.0\ExercisesC#.dll
+C:\Users\joaop\OneDrive\Área de Trabalho\projetos\ExercisesC#\ExercisesC#\obj\Debug\net8.0\refint\ExercisesC#.dll
+C:\Users\joaop\OneDrive\Área de Trabalho\projetos\ExercisesC#\ExercisesC#\obj\Debug\net8.0\ExercisesC#.pdb
+C:\Users\joaop\OneDrive\Área de Trabalho\projetos\ExercisesC#\ExercisesC#\obj\Debug\net8.0\ExercisesC#.genruntimeconfig.cache
+C:\Users\joaop\OneDrive\Área de Trabalho\projetos\ExercisesC#\ExercisesC#\obj\Debug\net8.0\ref\ExercisesC#.dll
